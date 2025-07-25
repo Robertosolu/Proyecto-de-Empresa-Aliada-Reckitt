@@ -1,4 +1,4 @@
-# Proyecto-de-Empresa-Aliada-Reckitt
+# Proyecto de Empresa Aliada Reckitt
 Proyecto realizado con empresa aliada Reckitt 
 
 Reckitt México, es una empresa líder en el mercado en productos de higiene del hogar, salud y nutrición, con marcas como Vanish, Lysol, Tempra, Sico, Durex y Chocomilk, entre muchas otras.
